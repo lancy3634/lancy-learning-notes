@@ -11,3 +11,21 @@ my learning notes for AI and GitHub
 ### 今日学习
 ✅ 注册GitHub账号
 ✅ 创建第一个仓库 lancy-learning-notes
+## 📝 Markdown基础语法练习
+# 一级标题
+## 二级标题
+### 三级标题
+
+**加粗文字**
+*斜体文字*
+
+- 无序列表项目1
+- 无序列表项目2
+
+1. 有序列表第一条
+2. 有序列表第二条
+
+✅ 完成任务
+⬜ 待完成任务
+
+[链接文字](https://github.com)
