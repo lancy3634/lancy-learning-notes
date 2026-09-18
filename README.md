@@ -39,3 +39,6 @@ my learning notes for AI and GitHub
 - OpenThaiRAG：泰语专用RAG检索增强开源框架
 链接：https://github.com/OpenThaiGPT/openthairag
 用途：导入美的产品手册搭建专属知识库，基于产品资料生成专业泰语客户回复与推广文案，适合海外客户咨询场景
+- Typhoon-OCR：泰语专用开源OCR图像文字识别模型
+链接：https://github.com/scb-10x/typhoon-ocr
+用途：提取产品海报、竞品社媒图片、产品手册图片中的泰语文本，用于竞品文案分析、产品参数整理，支撑泰国社交媒体内容调研。
