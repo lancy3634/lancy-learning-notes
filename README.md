@@ -27,5 +27,9 @@ my learning notes for AI and GitHub
 
 ✅ 完成任务
 ⬜ 待完成任务
+## 🔗 泰语相关开源工具
+- MonDictDB：开源泰英缅词典数据库
+链接：https://github.com/Barnista/MonDictDB
+用途：获取泰语词汇库，适合搭建双语术语库，用于海外推广文案、词汇学习
 
 [链接文字](https://github.com)
