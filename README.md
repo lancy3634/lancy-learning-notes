@@ -36,3 +36,6 @@ my learning notes for AI and GitHub
 - Sailor-LLM：东南亚多语言开源大模型，原生支持泰语，可用于产品文案翻译、泰国社交平台推广内容创作
 链接：https://github.com/sail-sg/sailor-llm
 用途：生成家电泰语推广文案、商务邮件翻译润色，适配东南亚海外推广运营场景
+- OpenThaiRAG：泰语专用RAG检索增强开源框架
+链接：https://github.com/OpenThaiGPT/openthairag
+用途：导入美的产品手册搭建专属知识库，基于产品资料生成专业泰语客户回复与推广文案，适合海外客户咨询场景
