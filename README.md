@@ -33,3 +33,6 @@ my learning notes for AI and GitHub
 用途：获取泰语词汇库，适合搭建双语术语库，用于海外推广文案、词汇学习
 
 [链接文字](https://github.com)
+- Sailor-LLM：东南亚多语言开源大模型，原生支持泰语，可用于产品文案翻译、泰国社交平台推广内容创作
+链接：https://github.com/sail-sg/sailor-llm
+用途：生成家电泰语推广文案、商务邮件翻译润色，适配东南亚海外推广运营场景
